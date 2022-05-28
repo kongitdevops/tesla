@@ -1,2 +1,3 @@
 deploy java applications
-Devops is easy
+Deploy phython apps
+deploy in thedev env
